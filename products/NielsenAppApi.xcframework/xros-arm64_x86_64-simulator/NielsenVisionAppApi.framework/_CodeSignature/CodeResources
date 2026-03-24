@@ -26,11 +26,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DAn7vMh6bVyLGHzIpbTQIGttXdY=
+		oaOeZQcIdWWaZDQaUrtWdfuQD5g=
 		</data>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
-		UmD45p39TT7aeC6NZA9ENis0+Gw=
+		yT8VdKVuC6LKovxxIvSpKr8QhFI=
 		</data>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		Ifu61GaTq10eKdxBrLf2fLx584Y=
+		vM4SAf4BvfdsvWkXem2sgzE2v4s=
 		</data>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
-		UmD45p39TT7aeC6NZA9ENis0+Gw=
+		yT8VdKVuC6LKovxxIvSpKr8QhFI=
 		</data>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		ds6NcjOfkJET7vw09Vx6DOgdGjE=
+		TDCzZZ73GMc3E9JFNjIXpmdzN40=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>PrivateHeaders/NlsApiWorker.h</key>
 		<data>
-		VXKrAxTsZgaBrk4cLzhzHE4/lRE=
+		hNiCHydwMDJGps3xO6JpipZvOL8=
 		</data>
 		<key>PrivateHeaders/NlsBaseDataProcessor.h</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>PrivateHeaders/NlsViewPattern.h</key>
 		<data>
-		wMX3Ahcsk61Z2oFFP0PQL0m91ew=
+		8VQuOmu7TbJobawhfcklPAmKG/w=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -190,7 +190,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			88Z5sxC9Uac6wA5eUKYe0y5GDHIZwYDG1TYStafE9Vw=
+			KBmkfiThtcSowhxN0eAkLd8a8BTWGYH8xmHjFXKdP64=
 			</data>
 		</dict>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
@@ -218,14 +218,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zEk5MNnu8h1dYCTqQ9NUIg45kk8iPgH03eES1CXVC60=
+			HcHhIm3sY6WuWI9j3lOAU1i8lKt0VtEdgGY2Ox4f4HA=
 			</data>
 		</dict>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			88Z5sxC9Uac6wA5eUKYe0y5GDHIZwYDG1TYStafE9Vw=
+			KBmkfiThtcSowhxN0eAkLd8a8BTWGYH8xmHjFXKdP64=
 			</data>
 		</dict>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
@@ -253,7 +253,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jUU+zBbruTwJV6nA9wlYB7YUhHk6INiqQTGr1p6QKjs=
+			Nbnz2+msU01mvwUlm/0el0Zi6VZ/6Ye0Z4ztRKAU4KU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -281,7 +281,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			08QLPftUnqO/ebEl9Jc2K4Tqb5YXuoVnaY58+tN1xgc=
+			GpaEnWMq3jF6z9oxRWQH/MySWQyP+O4ZcdrU/n4BX2A=
 			</data>
 		</dict>
 		<key>PrivateHeaders/NlsBaseDataProcessor.h</key>
@@ -393,7 +393,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g1bv7dgvVdLM53W2z5KWu6wmsBZXVnFW9pNf5DFNghE=
+			asc6kcB7JRMaVYaCp0lV/N+9x7slPKMjqAi5Y9et8aE=
 			</data>
 		</dict>
 	</dict>
